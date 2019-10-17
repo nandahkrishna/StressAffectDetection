@@ -8,4 +8,4 @@ We discuss an efficient and accurate solution to stress detection in our paper. 
 
 Paper to be published in ICMLA Proceedings, IEEE Xplore.
 
-Authors: Abhijith Ragav, Nanda H Krishna, Naveen Narayanan, Kevin Thelly, Vineeth Vijayaraghavan
+Authors: [Abhijith Ragav](https://github.com/abhijithragav), [Nanda H Krishna](https://github.com/nandahkrishna), [Naveen Narayanan](https://github.com/naveenggmu), [Kevin Thelly](https://github.com/KevinThelly), Vineeth Vijayaraghavan
